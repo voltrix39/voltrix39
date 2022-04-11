@@ -15,8 +15,10 @@
     <br>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
     <br>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+    <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -24,38 +26,13 @@
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 </p>
 
-<h3>I am currently working on</h3>
-<h3><b><a href="https://github.com/voltrix39/meret">Meret</a></b></h3>
-<p>
-    <i>Non-commercial music streaming service</i>
-</p>
-<h4>Current progress</h4>
-<p>
-    :heavy_check_mark: Accounts system<br>
-    :heavy_check_mark: Uploading artist images<br>
-    :heavy_check_mark: Updating artist pages<br>
-    :x: Adding albums and singles, creating playlists<br>
-    :x: Playing actual music :raised_eyebrow:<br>
-</p>
-
-<h3>Other projects</h3>
-<p>
-    :white_medium_square: <a href="https://github.com/voltrix39/bowlingvo">Bowlingvo</a> | <i>Website for learning foreign languages</i></li>
-</p>
-
 <h3>You can find me here</h3>
 <p>
     <a href="https://github.com/voltrix39"><img alt="GitHub" src="icons/github.svg"></a>
     <a href="https://www.instagram.com/voltrix39/"><img alt="Instagram" src="icons/instagram.svg"></a>
-    <sub><i>(it's empty tho)</i></sub>
     <a href="https://www.linkedin.com/in/oleg-shmykov/"><img alt="LinkedIn" src="icons/linkedin.svg"></a>
-    <sub><i>(also has nothing on it)</i></sub>
+<!--     <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="oleg-shmykov" data-version="v1">
+        <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/oleg-shmykov?trk=profile-badge">Oleg Shmykov</a>
+    </div>          
 </p>
-
-<h3>My other skills</h3>
-<p>
-    I fluently speak
-    <img alt="english" src="https://raw.githubusercontent.com/yammadev/flag-icons/master/png/GB.png">
-    and
-    <img alt="russian" src="https://raw.githubusercontent.com/yammadev/flag-icons/master/png/RU.png">
-</p>
+ -->
