@@ -1,5 +1,5 @@
 <h1>Hey! Welcome to my page :hugs:</h1>
-<p>My name is Oleg and I'm a second year CS student at University of St Andrews. I'm interested in web-development, and I also have experience in Data Programming.</p>
+<p>My name is Oleg and I'm a second year CS student at University of St Andrews. I'm interested in software and web-development and data science.</p>
 
 <h3>I work with</h3>
 <p>
@@ -17,6 +17,7 @@
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
     <br>
+    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
     <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
